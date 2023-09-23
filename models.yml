@@ -1,0 +1,21 @@
+models
+    -polyanets
+    -soloons
+    -cometh
+controllers
+    -polyanetsController
+    -soloonsController
+    -comethController
+router
+    -megaverseRouter
+
+-Framework: Express js
+-libreria: Axios
+-Testing: Postman
+
+Ver la manera de reemplazar un array por otro:
+    -2 array, el goal y el incompleto
+    -como reemplazo?
+        metodo:
+        -obtengo lso dos arrays (goal y incompleto)
+        -recorro el goal, si encuentra onbtengo la posicion y ejecuto el metodo post en el incompleto. Voy reemplazando.
